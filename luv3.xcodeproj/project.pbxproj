@@ -14,6 +14,7 @@
 		15381F332C0E5D7D00A4D164 /* luv3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15381F322C0E5D7D00A4D164 /* luv3Tests.swift */; };
 		15381F3D2C0E5D7D00A4D164 /* luv3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15381F3C2C0E5D7D00A4D164 /* luv3UITests.swift */; };
 		15381F3F2C0E5D7D00A4D164 /* luv3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15381F3E2C0E5D7D00A4D164 /* luv3UITestsLaunchTests.swift */; };
+		15381F4C2C0E63CE00A4D164 /* BlogPostsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15381F4B2C0E63CE00A4D164 /* BlogPostsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		15381F382C0E5D7D00A4D164 /* luv3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = luv3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		15381F3C2C0E5D7D00A4D164 /* luv3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = luv3UITests.swift; sourceTree = "<group>"; };
 		15381F3E2C0E5D7D00A4D164 /* luv3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = luv3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		15381F4B2C0E63CE00A4D164 /* BlogPostsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlogPostsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				15381F212C0E5D7700A4D164 /* luv3App.swift */,
 				15381F232C0E5D7700A4D164 /* ContentView.swift */,
+				15381F4B2C0E63CE00A4D164 /* BlogPostsView.swift */,
 				15381F252C0E5D7C00A4D164 /* Assets.xcassets */,
 				15381F272C0E5D7C00A4D164 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				15381F4C2C0E63CE00A4D164 /* BlogPostsView.swift in Sources */,
 				15381F242C0E5D7700A4D164 /* ContentView.swift in Sources */,
 				15381F222C0E5D7700A4D164 /* luv3App.swift in Sources */,
 			);
